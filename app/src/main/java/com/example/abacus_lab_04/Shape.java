@@ -1,7 +1,6 @@
 package com.example.abacus_lab_04;
 
 public class Shape {
-    String color = "Indigo";
     String color = "Blue";
     private int x;
     private int y;
