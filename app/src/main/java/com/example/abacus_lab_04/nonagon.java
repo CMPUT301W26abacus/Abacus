@@ -1,6 +1,4 @@
 package com.example.abacus_lab_04;
 
-public class hexagon extends Shape{
-
+public class nonagon extends Shape{
 }
-
